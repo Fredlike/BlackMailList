@@ -1,0 +1,10 @@
+{
+  "TextBoxContents": "",
+  "secretstext": "",
+  "bestfriend": false,
+  "friend": false,
+  "known": false,
+  "enemy": false,
+  "trustsvalue": 0
+  "comment": "this only works for the verson 1.0"
+}
