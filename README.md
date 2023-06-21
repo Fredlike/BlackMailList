@@ -4,6 +4,6 @@
 Introduction: You can Import a bml file and Export a bml file. (bml stands for Black Mail list)
 You can also edit a file using visual studio code. there is a template in the templates folder [here.](https://github.com/Fredlike/BlackMailList/tree/main/Templates)
 
-You can download BML by going to releases or just click [here.](https://github.com/Fredlike/BlackMailList/releases/tag/1.0)
+You can download BML by going to releases and [download the latest verson](https://github.com/Fredlike/BlackMailList/releases/tag/1.0) there.
 
 ![Alt Text](images/preview.png)
