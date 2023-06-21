@@ -18,4 +18,5 @@
   "trustsvalue": 0 - **set it to 1-10 by how much you trust the person.**
 
   "comment": "this only works for the verson 1.0" - **dont change anything here. you can delete it but i dont recommend.**
+  
 }
