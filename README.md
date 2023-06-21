@@ -3,3 +3,5 @@
 
 Introduction: You can Import a bml file and Export a bml file. (bml stands for Black Mail list)
 You can also edit a file using visual studio code. there is a template in the templates folder here. 
+
+![Alt Text](images/preview.png)
