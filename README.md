@@ -11,6 +11,9 @@ You can download BML by going to releases and [download the latest verson](https
 ## **Introduction:**
 
 **Step one:** download the zip file and extract it. 
+
 **Step two:** open the BlackMailList.exe file. (it might say that your computer have blocked the app for safety reason. but just ingnore it. its not a virus ir malware)
+
 **step tree:** open or make a file. if you want to open a BML file, go to file/import and just open a bml file. If you dont have any BML files you can download the [template](https://github.com/Fredlike/BlackMailList/tree/main/Templates) file if you want to edit it in text, or just start typing. dont worry if the text on the top says "file name". when you export it just name it what you want and it will show up there. 
+
 **step four:** export it. if you want to export it or save it, go to file/export and name the file. the file name will be showing at the top when you open it again. 
