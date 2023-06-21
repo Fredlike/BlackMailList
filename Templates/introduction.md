@@ -1,6 +1,6 @@
-First download the file. Then you can edit it using [BML 1.0](https://github.com/Fredlike/BlackMailList/releases/tag/1.0) or any type of software like [VScode,](https://code.visualstudio.com), [notepad++](https://notepad-plus-plus.org/downloads/) and more.
-
 ## **HOW TO MODIFY A BML FILE USING TEXT**
+
+**First download the file. Then you can edit it using [BML 1.0](https://github.com/Fredlike/BlackMailList/releases/tag/1.0) or any type of software like [VScode,](https://code.visualstudio.com) [notepad++](https://notepad-plus-plus.org/downloads/) and more.**
 
 {
   "TextBoxContents": "", - **this is the info textbox that is on the left.**        
